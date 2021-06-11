@@ -26,7 +26,7 @@ import { LoginPage } from './login/login.page';
     useValue: {
       serverBaseUrl: environment.serverBaseUrl,
       connectionType: 'websocket',
-      // useSsl: true
+      useSsl: environment.production
     } as SapphireDbOptions
   }, DBService],
   bootstrap: [AppComponent],

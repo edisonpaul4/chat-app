@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  serverBaseUrl:'localhost:5000',
+  serverBaseUrl:'chatpm.azurewebsites.net',
   firebase: {
     apiKey: "AIzaSyAE7u4px9HuNJZ0QPmx9HbmBkX0pJAAw-k",
     authDomain: "chat-8e936.firebaseapp.com",

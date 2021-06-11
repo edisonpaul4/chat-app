@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ChatPM",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
